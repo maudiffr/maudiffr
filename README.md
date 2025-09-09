@@ -3,24 +3,26 @@
 
 ### 📂 My 42 Projects
 
-#### C
-- [Libft](https://github.com/maudiffr/libft) → Custom C library
-- [ft_printf](https://github.com/maudiffr/ft_printf) → Custom printf implementation
-- [get_next_line](https://github.com/maudiffr/get_next_line) → Reading lines from a file
-- [pipex](https://github.com/maudiffr/pipex) → Implementing piping in Unix
-- [so_long](https://github.com/maudiffr/so_long) → 2D game with MiniLibX
-- [minishell](https://github.com/maudiffr/minishell) → Unix shell recreation
-- [Philosophers](https://github.com/maudiffr/philosophers) → Multi-threading and synchronization exercise
-- [cub3D](https://github.com/maudiffr/cub3d) → 3D engine using raycasting
+#### 🅲 C
+- 🎨 **Libft** → Custom C library
+- 🖨️ **ft_printf** → Custom printf implementation
+- 📄 **get_next_line** → Reading lines from a file
+- 🔗 **pipex** → Implementing piping in Unix
+- 🎮 **so_long** → 2D game with MiniLibX
+- 🐚 **minishell** → Unix shell recreation
+- 🧵 **Philosophers** → Multi-threading and synchronization exercise
+- 🎮 **cub3D** → 3D engine using raycasting
 
-#### C++ / OOP
-- [CPP](https://github.com/maudiffr/CPP) → Various C++ modules exercises
-- [ft_irc](https://github.com/maudiffr/ft_irc) → IRC server implementation
+#### 🅲++ / OOP
+- 📘 **CPP** → Various C++ modules exercises
+- 💬 **ft_irc** → IRC server implementation
 
-#### Web / DevOps
-- [Inception](https://github.com/maudiffr/inception) → Containerized WordPress with Docker
-- [ft_transcendence](https://github.com/maudiffr/ft_transcendence) → Web-based Pong game with multiplayer features
+#### 🌐 Web / DevOps
+- 🐳 **Inception** → Containerized WordPress with Docker
+- 🎮 **ft_transcendence** → Online Pong game platform
 
+#### 🐧 Bash / Systems
+- 🛠️ **Born2beroot** → Linux system setup project
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maudiffr&layout=compact&theme=radical" alt="Top Languages" />
