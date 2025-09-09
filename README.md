@@ -4,27 +4,27 @@
 ### 📂 My 42 Projects
 
 #### C
-- [Libft](https://github.com/ton-login/libft) → Custom C library
-- [ft_printf](https://github.com/ton-login/ft_printf) → Custom printf implementation
-- [get_next_line](https://github.com/ton-login/get_next_line) → Reading lines from a file
-- [pipex](https://github.com/ton-login/pipex) → Implementing piping in Unix
-- [so_long](https://github.com/ton-login/so_long) → 2D game with MiniLibX
-- [minishell](https://github.com/ton-login/minishell) → Unix shell recreation
-- [Philosophers](https://github.com/ton-login/philosophers) → Multi-threading and synchronization exercise
-- [cub3D](https://github.com/ton-login/cub3d) → 3D engine using raycasting
+- [Libft](https://github.com/maudiffr/libft) → Custom C library
+- [ft_printf](https://github.com/maudiffr/ft_printf) → Custom printf implementation
+- [get_next_line](https://github.com/maudiffr/get_next_line) → Reading lines from a file
+- [pipex](https://github.com/maudiffr/pipex) → Implementing piping in Unix
+- [so_long](https://github.com/maudiffr/so_long) → 2D game with MiniLibX
+- [minishell](https://github.com/maudiffr/minishell) → Unix shell recreation
+- [Philosophers](https://github.com/maudiffr/philosophers) → Multi-threading and synchronization exercise
+- [cub3D](https://github.com/maudiffr/cub3d) → 3D engine using raycasting
 
 #### C++ / OOP
-- [Modules CPP](https://github.com/ton-login/Modules_CPP) → Various C++ modules exercises
-- [ft_irc](https://github.com/ton-login/ft_irc) → IRC server implementation
+- [CPP](https://github.com/maudiffr/CPP) → Various C++ modules exercises
+- [ft_irc](https://github.com/maudiffr/ft_irc) → IRC server implementation
 
 #### Web / DevOps
-- [Inception](https://github.com/ton-login/inception) → Containerized WordPress with Docker
-- [ft_transcendence](https://github.com/ton-login/ft_transcendence) → Web-based Pong game with multiplayer features
-- 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maudiffr&layout=compact)
+- [Inception](https://github.com/maudiffr/inception) → Containerized WordPress with Docker
+- [ft_transcendence](https://github.com/maudiffr/ft_transcendence) → Web-based Pong game with multiplayer features
 
 
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maudiffr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### 💻 Languages
 <p align="left">
