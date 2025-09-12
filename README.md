@@ -9,7 +9,7 @@
 - 📄 **get_next_line** → Reading lines from a file
 - 🔗 **pipex** → Implementing piping in Unix
 - 🎮 **so_long** → 2D game with MiniLibX
-- 🐚 **minishell** → Unix shell recreation
+- 🐚 **minishell** → Simplified Unix shell
 - 🧵 **Philosophers** → Multi-threading and synchronization exercise
 - 🎮 **cub3D** → 3D engine using raycasting
 
