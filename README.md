@@ -3,7 +3,7 @@
 
 ### 📂 My 42 Projects
 
-#### 🅲 C
+#### C
 - 🎨 **Libft** → Custom C library
 - 🖨️ **ft_printf** → Custom printf implementation
 - 📄 **get_next_line** → Reading lines from a file
@@ -13,7 +13,7 @@
 - 🧵 **Philosophers** → Multi-threading and synchronization exercise
 - 🎮 **cub3D** → 3D engine using raycasting
 
-#### 🅲++ / OOP
+#### C++ / OOP
 - 📘 **CPP** → Various C++ modules exercises
 - 💬 **ft_irc** → IRC server implementation
 
