@@ -24,6 +24,9 @@
 #### 🐧 Bash / Systems
 - 🛠️ **Born2beroot** → Linux system setup project
 
+#### Assembly
+- 🧩 **Libasm** → Custom ASM library
+
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maudiffr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
