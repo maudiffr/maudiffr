@@ -7,7 +7,7 @@
 - 🎨 **Libft** → Custom C library
 - 🖨️ **ft_printf** → Custom printf implementation
 - 📄 **get_next_line** → Reading lines from a file
-- 🔗 **pipex** → Implementing piping in Unix
+- 🔗 **pipex** → Reproducing the behavior of a shell pipe
 - 🎮 **so_long** → 2D game with MiniLibX
 - 🐚 **minishell** → Simplified Unix shell
 - 🧵 **Philosophers** → Multi-threading and synchronization exercise
