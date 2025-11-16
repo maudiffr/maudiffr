@@ -12,16 +12,17 @@
 - 🐚 **minishell** → Simplified Unix shell
 - 🧵 **Philosophers** → Multi-threading and synchronization exercise
 - 🎮 **cub3D** → 3D engine using raycasting
+- 🔍 **ft_nm** → Reimplementation of `nm` for 64-bit ELF binaries
 
 #### C++ / OOP
 - 📘 **CPP** → Various C++ modules exercises
 - 💬 **ft_irc** → IRC server implementation
 
-#### 🌐 Web / DevOps
+#### Web / DevOps
 - 🐳 **Inception** → Containerized WordPress with Docker
 - 🎮 **ft_transcendence** → Online Pong game platform
 
-#### 🐧 Bash / Systems
+#### Bash / Systems
 - 🛠️ **Born2beroot** → Linux system setup project
 
 #### Assembly
