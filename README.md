@@ -12,7 +12,7 @@
 - 🐚 **minishell** → Simplified Unix shell
 - 🧵 **Philosophers** → Multi-threading and synchronization exercise
 - 🎮 **cub3D** → 3D engine using raycasting
-- 🔍 **ft_nm** → Reimplementation of `nm` for 64-bit ELF binaries
+- 🔍 **ft_nm** → Reimplementation of `nm` for ELF binaries
 
 #### C++ / OOP
 - 📘 **CPP** → Various C++ modules exercises
