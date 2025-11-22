@@ -1,5 +1,5 @@
 # Hi 👋, I'm Manu
-### 🎓 Software development student at 42 Nice, with a strong interest in object-oriented programming and C.
+### 🎓 Software development student at 42 Nice, with a strong interest in C and object-oriented programming.
 
 ### 📂 My 42 Projects
 
