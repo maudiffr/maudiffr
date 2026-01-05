@@ -17,7 +17,7 @@
 #### C++
 - 📘 **CPP** → Various C++ modules exercises
 - 💬 **ft_irc** → IRC server implementation
-- 🐍 **Nibbler** → Classic Snake game with dynamic library handling (SFML, SDL, Raylib)
+- 🐍 **Nibbler** → Classic Snake game with dynamic library handling
   
 
 #### DevOps / Web
