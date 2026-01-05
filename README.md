@@ -14,11 +14,13 @@
 - 🎮 **cub3D** → 3D engine using raycasting
 - 🔍 **ft_nm** → Reimplementation of `nm` for ELF binaries
 
-#### C++ / OOP
+#### C++
 - 📘 **CPP** → Various C++ modules exercises
 - 💬 **ft_irc** → IRC server implementation
+- 🐍 **Nibbler** → Classic Snake game with dynamic library handling (SFML, SDL, Raylib)
+  
 
-#### Web / DevOps
+#### DevOps / Web
 - 🐳 **Inception** → Containerized WordPress with Docker
 - 🎮 **ft_transcendence** → Online Pong game platform
 
