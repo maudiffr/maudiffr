@@ -4,31 +4,32 @@
 ### 📂 My 42 Projects
 
 #### C
-- 🎨 **Libft** → Custom C library
-- 🖨️ **ft_printf** → Custom printf implementation
-- 📄 **get_next_line** → Reading lines from a file
-- 🔗 **pipex** → Reproducing the behavior of a shell pipe
-- 🎮 **so_long** → 2D game with MiniLibX
-- 🐚 **minishell** → Simplified Unix shell
-- 🧵 **Philosophers** → Multi-threading and synchronization exercise
-- 🎮 **cub3D** → 3D engine using raycasting
-- 🔍 **ft_nm** → Reimplementation of `nm` for ELF binaries
+- [🎨](https://github.com/maudiffr/libft) **Libft** → Custom C library
+- [🖨️](https://github.com/maudiffr/ft_printf) **ft_printf** → Custom printf implementation
+- [📄](https://github.com/maudiffr/get_next_line) **get_next_line** → Reading lines from a file
+- [🔗](https://github.com/maudiffr/pipex) **pipex** → Reproducing the behavior of a shell pipe
+- [🎮](https://github.com/maudiffr/so_long) **so_long** → 2D game with MiniLibX
+- [🐚](https://github.com/maudiffr/minishell) **minishell** → Simplified Unix shell
+- [🧵](https://github.com/maudiffr/philosophers) **Philosophers** → Multi-threading and synchronization exercise
+- [🎮](https://github.com/maudiffr/cub3D) **cub3D** → 3D engine using raycasting
+- [🔍](https://github.com/maudiffr/nm) **ft_nm** → Reimplementation of `nm` for ELF binaries
+
 
 #### C++
-- 📘 **CPP** → Various C++ modules exercises
-- 💬 **ft_irc** → IRC server implementation
-- 🐍 **Nibbler** → Classic Snake game with dynamic library handling
+- [📘](https://github.com/maudiffr/CPP) **CPP** → Various C++ modules exercises
+- [💬](https://github.com/maudiffr/ft_irc) **ft_irc** → IRC server implementation
+- [🐍](https://github.com/maudiffr/Nibbler) **Nibbler** → Classic Snake game with dynamic library handling
   
 
 #### DevOps / Web
-- 🐳 **Inception** → Containerized WordPress with Docker
-- 🎮 **ft_transcendence** → Online Pong game platform
+- [🐳](https://github.com/maudiffr/Inception) **Inception** → Containerized WordPress with Docker
+- [🎮](https://github.com/maudiffr/ft_transcendence) **ft_transcendence** → Online Pong game platform
 
 #### Bash / Systems
-- 🛠️ **Born2beroot** → Linux system setup project
+- [🛠️](https://github.com/maudiffr/Born2beRoot) **Born2beroot** → Linux system setup project
 
 #### Assembly
-- 🧩 **Libasm** → Custom ASM library
+- [🧩](https://github.com/maudiffr/Libasm) **Libasm** → Custom ASM library
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maudiffr&layout=compact&theme=radical" alt="Top Languages" />
