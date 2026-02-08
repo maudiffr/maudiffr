@@ -32,9 +32,7 @@
 #### Assembly
 - [🧩](https://github.com/maudiffr/Libasm) **Libasm** → Custom ASM library
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maudiffr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<br>
 
 ### 💻 Languages
 <p align="left">
