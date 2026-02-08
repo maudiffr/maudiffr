@@ -14,12 +14,13 @@
 - [🎮](https://github.com/maudiffr/cub3D) **cub3D** → 3D engine using raycasting
 - [🔍](https://github.com/maudiffr/nm) **ft_nm** → Reimplementation of `nm` for ELF binaries
 
-
 #### C++
 - [📘](https://github.com/maudiffr/CPP) **CPP** → Various C++ modules exercises
 - [💬](https://github.com/maudiffr/ft_irc) **ft_irc** → IRC server implementation
 - [🐍](https://github.com/maudiffr/Nibbler) **Nibbler** → Classic Snake game with dynamic library handling
-  
+
+#### Java
+- [✈️](https://github.com/maudiffr/avaj-launcher) **avaj-launcher** → Simple Java program focused on UML class diagram and design patterns.
 
 #### DevOps / Web
 - [🐳](https://github.com/maudiffr/Inception) **Inception** → Containerized WordPress with Docker
