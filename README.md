@@ -20,7 +20,7 @@
 - [🐍](https://github.com/maudiffr/Nibbler) **Nibbler** → Classic Snake game with dynamic library handling
 
 #### Java
-- [✈️](https://github.com/maudiffr/avaj-launcher) **avaj-launcher** → Simple Java program focused on UML class diagram and design patterns.
+- [✈️](https://github.com/maudiffr/avaj-launcher) **avaj-launcher** → Simple Java program focused on UML class diagram and design patterns
 
 #### DevOps / Web
 - [🐳](https://github.com/maudiffr/Inception) **Inception** → Containerized WordPress with Docker
