@@ -1,5 +1,5 @@
 # Hi 👋, I'm Manu
-### 🎓 Software development student at 42 Nice, with a strong interest in C and object-oriented programming.
+### 🎓 Software development student at 42 Nice, with experience in systems programming (C/C++) and fullstack web development (React, Node.js, PostgreSQL).
 
 ### 📂 My 42 Projects
 
@@ -31,6 +31,11 @@
 
 #### Assembly
 - [🧩](https://github.com/maudiffr/Libasm) **Libasm** → Custom ASM library
+
+<br>
+
+### 🚀 Personal Projects
+- [🎮](https://github.com/maudiffr/word-reveal) **Word Reveal** → Fullstack word guessing game (React + Node.js + PostgreSQL)
 
 <br>
 
